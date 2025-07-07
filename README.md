@@ -1,4 +1,4 @@
-# Google Calendar Integration for ADK Voice Assistant
+# Recruitment bot Integration for ADK Voice Assistant
 
 This document explains how to set up and use the Google Calendar integration with your ADK Voice Assistant.
 
